@@ -54,7 +54,6 @@ public class GuiBing implements Base {
 			} else {
 				temp[k++] = arr[j++];
 			}
-
 		}
 
 		while (i <= m) {
@@ -69,5 +68,7 @@ public class GuiBing implements Base {
 		}
 
 	}
+	
+	
 
 }
